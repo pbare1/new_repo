@@ -1,4 +1,4 @@
 #!/bin/sh
 print("**************************************")
 print("*** THIS IS DEMO FOR JENKINS *********")
-print("**************************************")
+print("***    build from GitHub     *********")
